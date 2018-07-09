@@ -1,0 +1,67 @@
+<html>
+<head>
+<style>
+body{
+    border: 1px solid powderblue;
+    background-image: url("n.jpg");
+    background-color: #cccccc;
+    border-style:ridge;
+    border-width: 50px;
+    border-color: green;
+}
+h1 {
+    color: #C5B358;
+    font-family: verdana;
+    font-size: 300%;
+    font-family: sans-serif;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 5px 5px #ffffff;
+
+
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+    width: 170px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 100px;
+    margin-right: 100px;
+    box-shadow: 5px 5px #ffffff;
+
+
+}
+p  {
+    color: #ffffff;
+    font-family: courier;
+    font-size: 160%;
+    font-weight: 100;
+    padding: 30px;
+    text-align: left;
+    text-shadow: 5px 2px #000000 ;
+    margin-right: 50%;
+    margin-left: auto;
+
+
+}
+h4{
+  font-style: oblique;
+  color: red;
+  border-style: double;
+  border-radius: 30;
+  border-width: medium;
+}
+.link{
+  background-color: #000000;
+  background-position: center;
+  background-size: auto;
+  box-shadow: 5px 2px #ffffff;
+}
+
+
+</style>
+</head>
+</html>
